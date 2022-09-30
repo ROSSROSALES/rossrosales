@@ -4,7 +4,7 @@ Hi 👋 My name is Ross Rosales
 Software Engineer
 -----------------
 
-I am a self-taught programmer with a background working as a Emergency Registered Nurse. I have formal education in Data Science with UofT/UW. I have found my passion to help people in a broader scope through technology. I search for any opportunity to lend a hand!
+I am a self-taught programmer with a background working as a Emergency Registered Nurse. I have found my passion to help people in a broader scope through technology. I search for any opportunity to lend a hand!
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [ross.erosales@gmail.com](mailto:ross.erosales@gmail.com)
