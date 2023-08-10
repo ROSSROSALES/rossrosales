@@ -8,7 +8,7 @@ I am a self-taught programmer with a background working as a Emergency Registere
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [ross.erosales@gmail.com](mailto:ross.erosales@gmail.com)
-* 🧠  I am currently working on ESLint and Security Engineering under LEAP
+* 🧠  I am currently working on AGVs, previously worked on ESLint and Microsoft Security Engineering
 
 ### Skills
 Languages
