@@ -65,8 +65,5 @@ Exposure to
 
 <p align="left"> <a href="https://www.github.com/rossrosales" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rossrosales" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/rossrosales"><img src="https://github-readme-stats.vercel.app/api?username=rossrosales&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&show_icons=true" alt="rossrosales's GitHub stats" /></a>
