@@ -8,7 +8,7 @@ I am a self-taught programmer with a background working as a Emergency Registere
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [ross.erosales@gmail.com](mailto:ross.erosales@gmail.com)
-* 🧠  I am currently working on Automated Guided Vehicles/Middleware and Open Source, previously worked on ESLint and Microsoft Security Engineering
+* 🧠  I am currently working on KDE Krita Open Source, previously worked on Automated Guided Vehicles/Middleware, ESLint, and Microsoft Security Engineering
 
 ### Skills
 Languages
